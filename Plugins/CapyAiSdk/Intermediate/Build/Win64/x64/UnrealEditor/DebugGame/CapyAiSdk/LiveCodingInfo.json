@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CapyAiSdk.cpp.obj": [
+			"CapyAiApi.gen.cpp.obj",
+			"CapyAiSdk.gen.cpp.obj",
+			"CapyAiSdk.init.gen.cpp.obj",
+			"CapyAIApi.cpp.obj",
+			"CapyAiSdk.cpp.obj"
+		]
+	}
+}

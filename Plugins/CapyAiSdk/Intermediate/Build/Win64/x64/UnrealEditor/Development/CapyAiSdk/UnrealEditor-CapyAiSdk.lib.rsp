@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CapyAiSdk.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\TrashProject\CapyAi\Intermediate\Build\Win64\x64\CapyAiEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"D:\TrashProject\CapyAi\Plugins\CapyAiSdk\Intermediate\Build\Win64\x64\UnrealEditor\Development\CapyAiSdk\Module.CapyAiSdk.cpp.obj"
+"D:\TrashProject\CapyAi\Plugins\CapyAiSdk\Intermediate\Build\Win64\x64\UnrealEditor\Development\CapyAiSdk\Default.rc2.res"
+/OUT:"D:\TrashProject\CapyAi\Plugins\CapyAiSdk\Intermediate\Build\Win64\x64\UnrealEditor\Development\CapyAiSdk\UnrealEditor-CapyAiSdk.lib"
