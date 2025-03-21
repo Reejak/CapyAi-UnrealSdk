@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CapyAiSdk",
+	"Description": "A plugin for Capy AI integration",
+	"Category": "Other",
+	"CreatedBy": "ReejakDev",
+	"CreatedByURL": "Capy-ai.com",
+	"DocsURL": "Capy-ai.com",
+	"MarketplaceURL": "",
+	"SupportURL": "Capy-ai.com",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Type": "Runtime",
+	"LoadingPhase": "Default",
+	"Modules": [
+		{
+			"Name": "CapyAiSdk",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
