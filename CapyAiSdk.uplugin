@@ -16,6 +16,12 @@
 	"Installed": false,
 	"Type": "Runtime",
 	"LoadingPhase": "Default",
+	"Plugins": [
+		{
+			"Name": "HttpBlueprint",
+			"Enabled": true
+		}
+	],
 	"Modules": [
 		{
 			"Name": "CapyAiSdk",
@@ -24,3 +30,4 @@
 		}
 	]
 }
+
