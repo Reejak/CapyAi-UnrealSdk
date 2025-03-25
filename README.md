@@ -2,6 +2,9 @@
 
 The Capy AI SDK allows you to quickly and effortlessly integrate a sophisticated AI-powered chatbot from Capy AI into your Unreal Engine project.
 
+Video integration:
+https://www.youtube.com/watch?v=SmPJ7oNqzHU&t=9s
+
 ## Features
 
 - Seamlessly integrate a chatbot powered by Capy AI directly into your game or interactive experience.
