@@ -5,6 +5,9 @@ The Capy AI SDK allows you to quickly and effortlessly integrate a sophisticated
 Video integration:
 https://www.youtube.com/watch?v=SmPJ7oNqzHU&t=9s
 
+Discord:
+https://discord.gg/TunNSuc3t6
+
 ## Features
 
 - Seamlessly integrate a chatbot powered by Capy AI directly into your game or interactive experience.
